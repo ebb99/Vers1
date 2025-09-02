@@ -5,8 +5,7 @@ body {
 	background: #fff;	
 	color: #333; 
 	font: normal 1em Arial, sans-serif;  /* Mindestschriftgröße wird dem Browser, bzw. dem Nutzer überlassen! */
-                  
-}
+
 p {
 	color: green;
 }
@@ -14,4 +13,10 @@ p {
 div {
 	color: red;
 	border: thin solid transparent;
+}
+
+
+
+
+	
 }
