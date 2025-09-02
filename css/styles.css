@@ -1,11 +1,3 @@
-body {
-	max-width: 75em;
-	margin:0 auto;
-	padding: 0;
-	background: #fff;	
-	color: #333; 
-	font: normal 1em Arial, sans-serif;  /* Mindestschriftgröße wird dem Browser, bzw. dem Nutzer überlassen! */
-
 p {
 	color: green;
 }
@@ -13,10 +5,4 @@ p {
 div {
 	color: red;
 	border: thin solid transparent;
-}
-
-
-
-
-	
 }
