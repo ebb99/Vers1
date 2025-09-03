@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\1-ueberuns.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1-ueberuns.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\5-contact.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5-contact.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\4-anfahrt.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4-anfahrt.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\3-referenzobjekte.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3-referenzobjekte.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\2-leistungen.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2-leistungen.html||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 232,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T10:40:38.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5-contact.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\5-contact.html",
+              "RelativeDocumentMoniker": "5-contact.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\5-contact.html",
+              "RelativeToolTip": "5-contact.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T14:20:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4-anfahrt.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\4-anfahrt.html",
+              "RelativeDocumentMoniker": "4-anfahrt.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\4-anfahrt.html",
+              "RelativeToolTip": "4-anfahrt.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T14:09:49.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1-ueberuns.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\1-ueberuns.html",
+              "RelativeDocumentMoniker": "1-ueberuns.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\1-ueberuns.html",
+              "RelativeToolTip": "1-ueberuns.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T14:07:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3-referenzobjekte.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\3-referenzobjekte.html",
+              "RelativeDocumentMoniker": "3-referenzobjekte.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\3-referenzobjekte.html",
+              "RelativeToolTip": "3-referenzobjekte.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T14:05:34.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2-leistungen.html",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\2-leistungen.html",
+              "RelativeDocumentMoniker": "2-leistungen.html",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\2-leistungen.html",
+              "RelativeToolTip": "2-leistungen.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-03T14:04:46.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "K:\\E\\0 AUSWERTUNGEN\\0 Webseite\\Vers1\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-03T13:16:03.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
